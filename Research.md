@@ -7,5 +7,8 @@ The numerical values that you need are: B → the magnetic field strength, which
 
 FM = Q v B where Q = N e.
 
+2. https://www.kjmagnetics.com/calculator.asp?calcType=disc
+web calcu force magnet for bought ?? :D
 
-3. 
+
+4. 
